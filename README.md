@@ -9,3 +9,5 @@ Clone the github repository:
     cd ollama-stt 
     pip install -r requirementst.txt
     streamlit run app.py
+
+Note: Please add PDF File Path From you system.
